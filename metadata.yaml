@@ -1,0 +1,28 @@
+_repo: Der-Tempel-Roman_66535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zur Mühlen, Hermynia
+    aliases:
+    - Zur Mühlen, Herminia
+    - Mühlen, Hermynia zur
+    - Zur Muhlen, Hermynia
+    birthdate: 1883
+    deathdate: 1951
+    gutenberg_agent_id: '52212'
+    url: http://www.gutenberg.org/2009/agents/52212
+    wikipedia: https://de.wikipedia.org/wiki/Hermynia_Zur_M%C3%BChlen
+description: ''
+gutenberg_issued: '2021-10-14'
+identifiers:
+  gutenberg: '66535'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Tempel
+
+  Roman'
+url: http://www.gutenberg.org/ebooks/66535
